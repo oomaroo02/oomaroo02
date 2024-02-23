@@ -1,43 +1,36 @@
-### Hi there, Pleased to meet you👋
+# Hi there, Pleased to meet you👋
 
-If you're here, it's probably because we've crossed paths in the tech world, through my network, or you've heard about my projects. 😄
+If you've wandered here, maybe it's because of my work at Signify or EU Flex, or perhaps we've crossed paths in the realm of machine learning and full-stack development. Whatever the reason, I'm glad you're here!
 
-*******
-
-## `Whoami`
-### 🚀 Engineer
-
-My journey in computer science began in middle school, sparking a passion that led me to the Eindhoven University of Technology. I've since navigated the realms of Full Stack and Machine Learning Engineering, taking ideas from conception to deployment. My toolkit includes:
-- **Python** for its versatility in back-end and data science applications.
-- **React** for when front-end challenges arise, though I'm humbly navigating its depths.
-- **TensorFlow & PyTorch** for pushing the boundaries of machine learning and AI.
+## `whoami`
+### :rocket: Engineer
+My adventure in tech started early and brought me to the Eindhoven University of Technology, where I've been diving deep into the world of software development and machine learning. From crafting chatbots at Signify to pioneering applications at EU Flex, I've embraced the challenge of turning ideas into reality. With every line of code, I strive to push the envelope further, leveraging tools like:
+- **Kubernetes** for orchestrating containers to perfection,
+- **Python** as my wand for crafting magic in automation and data manipulation,
+- **React** for when I venture into the enchanting lands of front-end development.
 
 ### 📊 Data Scientist in Training
-
-As I delve deeper into my MSc in Data Science and AI, I'm committed to using data for meaningful insights, showcased through projects like automated testing tools for ING and carpet pattern recognition.
+On the quest for knowledge, I'm currently mastering the art of machine learning at TU/e, exploring the potential of TensorFlow and PyTorch. Whether it's enhancing code quality for ING or unveiling the origins of carpets through CNN, my journey is a testament to the power of data in unlocking new insights.
 
 ### 👨‍🔬 Researcher
-
-AI fascinates me, especially its potential to unravel complex patterns and automate tasks. My work reflects a dedication to exploring the limits of current technology and beyond.
+There's something thrilling about unraveling the mysteries of AI. My focus? Diving into deep learning to automate and innovate, from recognizing intricate patterns to refining the interaction between humans and machines. It's a path of constant discovery, and I'm here for every step.
 
 ### 🗣 Communicator
-
-Sharing knowledge and engaging with the tech community energizes me. I'm keen on contributing more through blogs and talks, diving into discussions about technology's evolving landscape.
+I'm on a mission to demystify the complex world of tech. Though my journey into blogging and speaking is just beginning, my goal is to spark conversations that matter, sharing the wonders of AI and machine learning with a wider audience.
 
 ### 🧑‍🤝‍🧑 Community Contributor
-
-I'm at the beginning of my journey in contributing to open-source projects and being an active community member, focusing on initiatives with societal benefits.
+Building bridges in the tech community is what I aim for. Whether contributing to open-source projects or engaging in meaningful tech discussions, I believe in the collective power of collaboration to drive innovation.
 
 ### 👨‍🏫 Educator at Heart
+There's a unique joy in sharing knowledge, and as I navigate through my career, I'm eager to mentor the next wave of tech enthusiasts, guiding them through the complexities of machine learning and beyond.
 
-I believe in the transformative power of education. Sharing my insights and learning with others, especially those just embarking on their tech journey, is something I look forward to.
-
-I'm excited about collaborations, particularly those making a societal impact. Feel free to reach out!
+**Thank you** for stopping by! I'm always on the lookout for collaborative projects, especially those making a tangible difference. Feel free to connect!
 
 ## Featured Projects
+- **Automated Testing Tool for ING**: A testament to enhancing software development with Python and Jenkins.
+- **Carpet Pattern Recognition using CNN**: A blend of TensorFlow and OpenML to trace the heritage of carpets.
+- **Story Quilt**: Crafting digital storybooks for children, where AI chooses the music that best fits the narrative.
 
-- **Automated Testing Tool for ING**: A testament to enhancing software development processes.
-- **Carpet Pattern Recognition using CNN**: A deep dive into the intricate world of pattern recognition.
-- **Story Quilt**: Merging storytelling with technology, creating an immersive experience for children.
+Let's embark on this journey together, exploring the endless possibilities that technology and collaboration can bring. Reach out if you're interested in making a difference, one project at a time.
 
-**Thank you for visiting my profile! Let's connect and create something impactful.**
+
