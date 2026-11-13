@@ -1,36 +1,42 @@
-# Hi there, Pleased to meet you👋
+# Hi there, pleased to meet you 👋
 
-If you've landed here, maybe you've seen my projects, we've met through my educational journey at TU/e, or you're intrigued by what a Machine Learning Engineer and Full Stack Developer is up to these days. Welcome aboard!
+If you've landed here, maybe you've seen my projects, we've met at TU/e or Oracle, or you're curious what an AI agent specialist is up to these days. Welcome aboard!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--salem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-salem)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ## `whoami`
-### 🚀 Engineer
-Diving into computer science during my time at Eindhoven University of Technology kindled a passion that has driven me to explore everything from natural language processing at Signify to full-stack development at EU Flex for KNSF. My toolkit is ever-expanding, but here are a few favorites:
+### 🤖 Agent Builder
+I'm an AI Agent Specialist at Oracle. I find where the problem really is, design the agent that fixes it, and get it into production for enterprise teams. Favorite tools right now:
 - **Python & SQL** for everything data.
-- **Kubernetes** for keeping my projects running smoothly.
-- **TensorFlow & PyTorch** for when I'm deep into machine learning.
+- **LangGraph, CrewAI & MCP** for orchestrating agents and their tools.
+- **RAG & LLM APIs** for agents that actually know your documents.
 
-### 📊 Data Scientist in Training
-Currently wrapping up my MSc in Data Science and AI, I'm on a mission to unlock the stories hidden within data. Whether it's enhancing code quality at ING with automated testing tools or deciphering carpet patterns with CNN, I'm all about finding innovative solutions.
+### 🧭 Product Thinker
+Most of my work sits between customers, product and engineering. I turn what customers struggle with into features that ship, like a hosted deployment option that took agents from built to live. Then I check whether it landed: adoption, repeat usage and real feedback.
 
-### 👨‍🔬 Researcher
-At the heart of it, I'm a problem-solver. My research spans the practical to the profound in AI, seeking out new ways to leverage technology for real-world applications. I'm always ready to dive into the next challenge, especially if it involves dirty datasets or the quest for explainable AI.
+### 🔍 Problem Solver
+Messy documents, forms nobody wants to fill in, workflows full of manual steps. That's where I like to start. Requisition forms, RFPs and invoices have all gone from manual work to agents on my watch.
 
-### 🗣 Communicator
-Though my main stage has been my projects and classes, I'm stepping into the world of blogs and talks to share my journey and learnings. I'm passionate about making the complex accessible and engaging in the broader conversation on tech's future.
+### 🎓 Background
+MSc in Data Science and AI and BSc in Computer Science from Eindhoven University of Technology, with stops at Signify (NLP) and EU Flex for KNSF (full-stack) along the way.
 
-### 🧑‍🤝‍🧑 Community Contributor
-Building and being part of communities is where I thrive. My experiences range from contributing to open-source projects to fostering tech discussions. I'm all in on collaborations that push boundaries and make a difference.
-
-### 👨‍🏫 Educator
-Teaching and sharing knowledge is a joy. From workshops to formal courses, I'm dedicated to empowering others with the skills to explore the fascinating world of tech.
-
-Thanks for stopping by! If you're interested in collaborating or just want to chat about tech, AI, or anything in between, I'm all ears. Let's make something amazing together.
+Thanks for stopping by! If you're building with agents or voice AI, or just want to chat, I'm all ears. Let's make something amazing together.
 
 ## Mini Portfolio
-- **Automated Testing Tool for ING**: Streamlining ING's development process with Python and Jenkins.
-- **Carpet Pattern Recognition using CNN**: Unveiling the origins of carpets with TensorFlow and deep learning.
-- **Story Quilt for Children**: Merging storytelling with technology to create immersive learning experiences.
+| Project | What it does |
+|---|---|
+| **Requisition Form Agent** | Reads uploaded documents, pulls data from a third-party system and fills order forms automatically |
+| **RFP Response Agent** | Splits long RFPs in mixed formats, extracts every question, drafts the answers and returns a finished PDF |
+| **AI Content Pipeline** | Generates videos and posts with Claude, adds voice with ElevenLabs and posts automatically. Built with a friend |
+| **NL-to-SQL Chatbot at Signify** | Turns plain questions into SQL at 98% accuracy in production, cutting resolution time by 30% |
 
-Here's to the next discovery, the next project, and the next conversation. Reach out anytime!
+**From the TU/e days:** automated testing tool for ING (Python, Jenkins), carpet pattern recognition with CNNs (TensorFlow), and Story Quilt, interactive storytelling for children.
 
-
+Here's to the next problem and the next agent. Reach out anytime! 🚀
