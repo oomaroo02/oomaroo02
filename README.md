@@ -2,7 +2,7 @@
 
 If you've landed here, maybe you've seen my projects, we've met at TU/e or Oracle, or you're curious what an AI agent specialist is up to these days. Welcome aboard!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--salem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-salem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--salem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarkarimsalem)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
