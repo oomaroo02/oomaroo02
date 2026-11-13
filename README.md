@@ -29,14 +29,4 @@ MSc in Data Science and AI and BSc in Computer Science from Eindhoven University
 
 Thanks for stopping by! If you're building with agents or voice AI, or just want to chat, I'm all ears. Let's make something amazing together.
 
-## Mini Portfolio
-| Project | What it does |
-|---|---|
-| **Requisition Form Agent** | Reads uploaded documents, pulls data from a third-party system and fills order forms automatically |
-| **RFP Response Agent** | Splits long RFPs in mixed formats, extracts every question, drafts the answers and returns a finished PDF |
-| **AI Content Pipeline** | Generates videos and posts with Claude, adds voice with ElevenLabs and posts automatically. Built with a friend |
-| **NL-to-SQL Chatbot at Signify** | Turns plain questions into SQL at 98% accuracy in production, cutting resolution time by 30% |
-
-**From the TU/e days:** automated testing tool for ING (Python, Jenkins), carpet pattern recognition with CNNs (TensorFlow), and Story Quilt, interactive storytelling for children.
-
 Here's to the next problem and the next agent. Reach out anytime! 🚀
